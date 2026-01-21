@@ -4,7 +4,7 @@
 
 ### Team Members
 - Joe Norton - Created HTML structure, wrote content, deployed to server
-- Tom Williams - 
+- Tom Williams - Created Presentation
 - Nathan Chzack - 
 
 
